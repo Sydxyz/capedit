@@ -10,7 +10,7 @@ __I Am Auto CaptionBot Just Add In Channel and See Magic__
 
 __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇʟ ᴜsᴇ ᴍᴇ__
 
-😈 __ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ__ 👉 __@{}__
+😈 __ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ__ 👉 **[MR. SYD 😁](https://t.me/Mod_Moviezx)
 """    
 
       HELP_TEXT = """
@@ -33,7 +33,7 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [MR](https://t.me/Avishkarpatil)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
@@ -83,5 +83,5 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 ○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="https://t.me/syd_xyz">Click Here </a></b>  
 """
